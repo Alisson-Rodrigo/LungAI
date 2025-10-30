@@ -6,3 +6,4 @@ scikit-learn
 onnx
 onnxruntime
 gradio
+datasets
